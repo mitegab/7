@@ -8,39 +8,37 @@ class PostStats extends StatelessWidget {
     return Row(
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
-        Row(
-          children: [
-            Icon(Icons.comment_outlined),
-            SizedBox(width: 4.0),
-            Text('6'),
-          ],
-        ),
-        Row(
-          children: [
-            Icon(Icons.compare_arrows_outlined),
-            SizedBox(width: 4.0),
-            Text('6'),
-          ],
-        ),
-        Row(
-          children: [
-            Icon(Icons.favorite_outline),
-            SizedBox(width: 4.0),
-            Text('6'),
-          ],
-        ),
-        Row(
-          children: [
-            Icon(Icons.stacked_bar_chart_outlined),
-            SizedBox(width: 4.0),
-            Text('6'),
-          ],
-        ),
+        _StatItem(icon: Icons.comment_outlined, count: '6'),
+        _StatItem(icon: Icons.compare_arrows_outlined, count: '6'),
+        _StatItem(icon: Icons.favorite_outline, count: '6'),
+        _StatItem(icon: Icons.stacked_bar_chart_outlined, count: '6'),
         IconButton(
           visualDensity: VisualDensity.compact,
           onPressed: () {},
-          icon: Icon(Icons.ios_share_outlined),
+          icon: const Icon(Icons.ios_share_outlined),
         ),
+      ],
+    );
+  }
+}
+
+class _StatItem extends StatelessWidget {
+  const _StatItem({
+    required this.icon,
+    required this.count,
+    super.key,
+  });
+
+  final IconData icon;
+  final String count;
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      children: [
+        Icon(icon),
+        const SizedBox(width: 4.0),
+        Text(count),
       ],
     );
   }

@@ -1,4 +1,4 @@
-# xclone_server
+# server
 
 This is the starting point for your Serverpod server.
 
