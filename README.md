@@ -1,12 +1,11 @@
 # X Clone App with Flutter and Serverpod
 
-Welcome to the **X Clone App**, a social media application built with **Flutter** for the front-end, **Serverpod** as the backend server, and the **BLoC Pattern** for state management. This project showcases the power of **full-stack Dart**, combining modern mobile app development with a robust backend.
+Welcome to the **twitter Clone**, a social media application built with **Flutter** for the front-end, **Serverpod** as the backend server, and the **BLoC Pattern** for state management. This project showcases the power of **full-stack Dart**, combining modern mobile app development with a robust backend.
 
 ## Full Code  
-Access the complete source code for this project here: [GitHub Repository](https://github.com/your-repo-link).
+Access the complete source code for this project here: [GitHub Repository](https://github.com/mitegab/twitterflutter.git).
 
-## Video Tutorial  
-Watch the step-by-step guide on building this app: [YouTube Tutorial](https://youtube.com/your-video-link).
+
 
 ---
 
@@ -69,5 +68,5 @@ Follow these steps to set up and run the app locally:
 ### Steps to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-repo-link  
-   cd x-clone-app  
+   git clone [https://github.com/your-repo-link](https://github.com/mitegab/twitterflutter.git)  
+   cd twitterflutter
