@@ -3,7 +3,7 @@
 Welcome to the **twitter clone**, a social media application built with **Flutter** for the front-end, **Serverpod** as the backend server, and the **BLoC Pattern** for state management. This project showcases the power of **full-stack Dart**, combining modern mobile app development with a robust backend.
 
 ## Full Code  
-Access the complete source code for this project here: [GitHub Repository](https://github.com/mitegabtwitterflutter).
+Access the complete source code for this project here: [GitHub Repository](https://github.com/mitegab/twitterflutter).
 
 
 ---
