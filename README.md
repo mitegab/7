@@ -1,4 +1,4 @@
-# X Clone App with Flutter and Serverpod
+# twitter clone with Flutter and Serverpod
 
 Welcome to the **twitter Clone**, a social media application built with **Flutter** for the front-end, **Serverpod** as the backend server, and the **BLoC Pattern** for state management. This project showcases the power of **full-stack Dart**, combining modern mobile app development with a robust backend.
 
