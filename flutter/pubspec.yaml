@@ -11,8 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
   serverpod_flutter: ^1.1.1
-  xclone_client:
-    path: ../xclone_client
+  client
+:
+    path: ../client
+
 
 
 

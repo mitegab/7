@@ -2,7 +2,9 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:xclone_client/xclone_client.dart';
+import 'package:client
+/client
+.dart';
 
 import '../../repositories/post_repository.dart';
 

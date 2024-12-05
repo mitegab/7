@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:xclone_client/xclone_client.dart';
+import 'package:client
+/client
+.dart';
 
 import 'post_more_actions_modal.dart';
 import 'post_stats.dart';

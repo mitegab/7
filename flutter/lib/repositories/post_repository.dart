@@ -1,4 +1,6 @@
-import 'package:xclone_client/xclone_client.dart';
+import 'package:client
+/client
+.dart';
 
 class PostRepository {
   final Client client;

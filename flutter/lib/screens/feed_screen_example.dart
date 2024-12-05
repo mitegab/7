@@ -1,5 +1,7 @@
 // import 'package:flutter/material.dart';
-// import 'package:xclone_client/xclone_client.dart';
+// import 'package:client
+/client
+.dart';
 // import 'package:flutter/main.dart';
 
 // class FeedScreen extends StatefulWidget {
