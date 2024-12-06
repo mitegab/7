@@ -13,7 +13,7 @@ import 'post_audience_settings.dart' as _i3;
 import 'post_reply_settings.dart' as _i4;
 import 'post_type.dart' as _i5;
 import 'user.dart' as _i6;
-import 'package:xclone_client/src/protocol/post.dart' as _i7;
+import 'package:client/src/protocol/post.dart' as _i7;
 export 'post.dart';
 export 'post_audience_settings.dart';
 export 'post_reply_settings.dart';
