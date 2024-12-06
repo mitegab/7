@@ -1,4 +1,4 @@
-name: xclone_client
+name: client
 description: Starting point for a Serverpod client.
 
 environment:
