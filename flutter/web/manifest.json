@@ -1,6 +1,6 @@
 {
-    "name": "xclone_flutter",
-    "short_name": "xclone_flutter",
+    "name": "flutter",
+    "short_name": "flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
